@@ -36,6 +36,11 @@ Initially approached the problem in C++, inspired by the classic **N-Queens Prob
 > **Note:** This puzzle may have multiple valid solutions.
 
 ---
+### ⏳ `Time Complexity`  
+**O(N! * N)**  
+We don't really need to worry about it, because here N value is always small.
+
+---
 
 ## 📌 Notes
 
