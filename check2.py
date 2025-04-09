@@ -124,4 +124,5 @@ def place_queen(row):
 
 
 # starting backtracking from row 0
+if __name__ == "__main__":
     place_queen(0)
