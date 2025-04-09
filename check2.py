@@ -124,4 +124,4 @@ def place_queen(row):
 
 
 # starting backtracking from row 0
-place_queen(0)
+    place_queen(0)
