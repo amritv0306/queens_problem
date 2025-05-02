@@ -24,6 +24,11 @@ Initially approached the problem in C++, inspired by the classic **N-Queens Prob
 
 ---
 
+## 🎥 Demo
+Press the below youtube link for a demo recording of the project.
+
+[![YouTube](https://img.shields.io/badge/YouTube-API-red?logo=youtube)](https://youtu.be/IxvgiTc6Gro?si=5V3teykY8EVlXGpy)
+
 ## 🖼️ Visual References
 
 | File                     | Description                                                  |
